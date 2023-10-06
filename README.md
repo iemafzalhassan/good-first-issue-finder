@@ -9,9 +9,9 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/EddieHubCommunity/good-first-issue-finder)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)](https://discord.com/invite/jZQs6Wu)
 
-# Good First Issue Finder by EddieHub
+# Good First Issue Finder
 
-Good First Issue Finder helps new open source contributors to make it easy to get into the world of open source through good first issues.
+Good First Issue Finder A great tool developed by *Eddiehub* which helps open source newbie contributors to involve in the world of open source through good first issues.
 
 ![eddiehub issue finder](https://user-images.githubusercontent.com/64529217/177034601-fe8dffce-cfac-4f61-889b-e3fe1ab7497d.png)
 
